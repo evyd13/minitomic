@@ -1,0 +1,2667 @@
+EESchema Schematic File Version 5
+EELAYER 33 0
+EELAYER END
+$Descr A1 33110 23386
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
+$EndDescr
+Connection ~ 4950 1000
+Connection ~ 5300 1000
+Connection ~ 5650 1000
+Connection ~ 5300 1500
+Connection ~ 5650 1500
+Connection ~ 4950 1500
+Connection ~ 4500 4050
+Connection ~ 4300 3400
+Connection ~ 8900 9350
+Connection ~ 4900 9350
+Connection ~ 9500 9350
+Connection ~ 4900 5000
+Connection ~ 4900 5100
+Connection ~ 4900 5200
+Connection ~ 4900 2600
+Connection ~ 4900 2500
+Connection ~ 4900 2400
+Connection ~ 4900 2300
+Connection ~ 4900 2800
+Connection ~ 4300 9350
+Connection ~ 2500 4100
+Connection ~ 1550 3600
+Connection ~ 1650 3500
+Connection ~ 2500 4000
+Connection ~ 2500 3800
+Connection ~ 15800 6850
+Connection ~ 1900 7850
+Connection ~ 3050 7850
+Connection ~ 4200 7850
+Connection ~ 5350 7850
+Connection ~ 6500 7850
+Connection ~ 7650 7850
+Connection ~ 8800 7850
+Connection ~ 9950 7850
+Connection ~ 11100 7850
+Connection ~ 12250 7850
+Connection ~ 13400 7850
+Connection ~ 1900 8650
+Connection ~ 12350 9600
+Connection ~ 8900 9600
+Connection ~ 4300 9600
+Connection ~ 3150 9600
+Connection ~ 1900 10000
+Connection ~ 3050 10000
+Connection ~ 4200 10000
+Connection ~ 5350 10000
+Connection ~ 8800 10000
+Connection ~ 1900 7250
+Connection ~ 3050 7250
+Connection ~ 4200 7250
+Connection ~ 5350 7250
+Connection ~ 6500 7250
+Connection ~ 7650 7250
+Connection ~ 8800 7250
+Connection ~ 9950 7250
+Connection ~ 11100 7250
+Connection ~ 12250 7250
+Connection ~ 13400 7250
+Connection ~ 14550 7250
+Connection ~ 16400 6600
+Connection ~ 14100 6850
+Connection ~ 12950 6850
+Connection ~ 11800 6850
+Connection ~ 10650 6850
+Connection ~ 9500 6850
+Connection ~ 8350 6850
+Connection ~ 7200 6850
+Connection ~ 6050 6850
+Connection ~ 4900 6850
+Connection ~ 4900 9100
+Connection ~ 3750 6850
+Connection ~ 2600 6850
+Connection ~ 3050 8650
+Connection ~ 4200 8650
+Connection ~ 5350 8650
+Connection ~ 6500 8650
+Connection ~ 7650 8650
+Connection ~ 8800 8650
+Connection ~ 9950 8650
+Connection ~ 11100 8650
+Connection ~ 12250 8650
+Connection ~ 13400 8650
+Connection ~ 6500 10000
+Connection ~ 9950 10000
+Connection ~ 12250 10000
+Connection ~ 13400 10000
+Connection ~ 15250 6850
+Connection ~ 4300 9100
+Connection ~ 15250 8250
+Connection ~ 14100 8250
+Connection ~ 12950 8250
+Connection ~ 12950 9350
+Connection ~ 7200 9350
+Connection ~ 6600 9600
+Connection ~ 9500 8850
+Connection ~ 8900 9100
+Connection ~ 10650 9350
+Connection ~ 10050 9600
+Connection ~ 12950 9100
+Connection ~ 12350 9350
+Connection ~ 14100 9350
+Connection ~ 13500 9600
+Connection ~ 3750 9350
+Connection ~ 4900 8850
+Connection ~ 9500 9100
+Connection ~ 7500 2600
+Connection ~ 7500 2400
+Connection ~ 6000 1000
+Connection ~ 6000 1500
+Connection ~ 1750 3000
+Connection ~ 2600 8250
+Connection ~ 3750 8250
+Connection ~ 4900 8250
+Connection ~ 6050 8250
+Connection ~ 7200 8250
+Connection ~ 10650 8250
+Connection ~ 9500 8250
+Connection ~ 14100 8050
+Connection ~ 15250 8000
+Connection ~ 14550 8250
+Connection ~ 13400 8250
+Connection ~ 15250 7450
+Connection ~ 14100 7450
+Connection ~ 12950 7450
+Connection ~ 11800 7450
+Connection ~ 10650 7450
+Connection ~ 9500 7450
+Connection ~ 8350 7450
+Connection ~ 7200 7450
+Connection ~ 6050 7450
+Connection ~ 4900 7450
+Connection ~ 3750 7450
+Connection ~ 2600 7450
+NoConn ~ 5000 2700
+NoConn ~ 1350 3100
+NoConn ~ 1350 3700
+NoConn ~ 7450 3600
+NoConn ~ 7450 3500
+NoConn ~ 7450 2300
+NoConn ~ 7450 3700
+NoConn ~ 8200 800 
+NoConn ~ 8200 1100
+NoConn ~ 8850 1100
+NoConn ~ 8850 800 
+NoConn ~ 8850 1400
+NoConn ~ 9500 1450
+NoConn ~ 9500 1100
+NoConn ~ 9500 800 
+NoConn ~ 7450 3800
+NoConn ~ 7450 4000
+Wire Wire Line
+	1350 2900 1450 2900
+Wire Wire Line
+	1350 3000 1750 3000
+Wire Wire Line
+	1350 3200 1450 3200
+Wire Wire Line
+	1350 3300 1650 3300
+Wire Wire Line
+	1350 3400 1550 3400
+Wire Wire Line
+	1350 3500 1650 3500
+Wire Wire Line
+	1350 3800 2100 3800
+Wire Wire Line
+	1350 4000 2500 4000
+Wire Wire Line
+	1350 4100 2500 4100
+Wire Wire Line
+	1400 7250 1900 7250
+Wire Wire Line
+	1400 7850 1900 7850
+Wire Wire Line
+	1400 8650 1900 8650
+Wire Wire Line
+	1400 10000 1900 10000
+Wire Wire Line
+	1450 3200 1450 3700
+Wire Wire Line
+	1450 3700 2100 3700
+Wire Wire Line
+	1550 3400 1550 3600
+Wire Wire Line
+	1550 3600 1350 3600
+Wire Wire Line
+	1550 3600 1850 3600
+Wire Wire Line
+	1650 3300 1650 3500
+Wire Wire Line
+	1650 3500 1850 3500
+Wire Wire Line
+	1750 2350 1750 2200
+Wire Wire Line
+	1750 2650 1750 3000
+Wire Wire Line
+	1750 3000 1750 3900
+Wire Wire Line
+	1750 3900 1350 3900
+Wire Wire Line
+	1900 6850 2000 6850
+Wire Wire Line
+	1900 6950 1900 6850
+Wire Wire Line
+	1900 7250 3050 7250
+Wire Wire Line
+	1900 7450 2000 7450
+Wire Wire Line
+	1900 7550 1900 7450
+Wire Wire Line
+	1900 7850 3050 7850
+Wire Wire Line
+	1900 8250 2000 8250
+Wire Wire Line
+	1900 8350 1900 8250
+Wire Wire Line
+	1900 8650 3050 8650
+Wire Wire Line
+	1900 9600 2000 9600
+Wire Wire Line
+	1900 9700 1900 9600
+Wire Wire Line
+	1900 10000 3050 10000
+Wire Wire Line
+	2400 3700 2500 3700
+Wire Wire Line
+	2400 3800 2500 3800
+Wire Wire Line
+	2500 3700 2500 3800
+Wire Wire Line
+	2500 3800 2500 4000
+Wire Wire Line
+	2500 4100 2500 4000
+Wire Wire Line
+	2500 4200 2500 4100
+Wire Wire Line
+	2600 6250 2600 6850
+Wire Wire Line
+	2600 6850 2600 7450
+Wire Wire Line
+	2600 7450 2600 8250
+Wire Wire Line
+	2600 8250 2600 9600
+Wire Wire Line
+	3050 6850 3150 6850
+Wire Wire Line
+	3050 6950 3050 6850
+Wire Wire Line
+	3050 7250 4200 7250
+Wire Wire Line
+	3050 7450 3150 7450
+Wire Wire Line
+	3050 7550 3050 7450
+Wire Wire Line
+	3050 7850 4200 7850
+Wire Wire Line
+	3050 8250 3150 8250
+Wire Wire Line
+	3050 8350 3050 8250
+Wire Wire Line
+	3050 8650 4200 8650
+Wire Wire Line
+	3050 9600 3150 9600
+Wire Wire Line
+	3050 9700 3050 9600
+Wire Wire Line
+	3050 10000 4200 10000
+Wire Wire Line
+	3150 9350 3150 9600
+Wire Wire Line
+	3450 3050 3800 3050
+Wire Wire Line
+	3450 3250 3800 3250
+Wire Wire Line
+	3600 4300 3600 4500
+Wire Wire Line
+	3600 4300 5000 4300
+Wire Wire Line
+	3700 4500 3600 4500
+Wire Wire Line
+	3750 4050 3650 4050
+Wire Wire Line
+	3750 6250 3750 6850
+Wire Wire Line
+	3750 6850 3750 7450
+Wire Wire Line
+	3750 7450 3750 8250
+Wire Wire Line
+	3750 8250 3750 9350
+Wire Wire Line
+	3750 9350 3750 9600
+Wire Wire Line
+	3800 3050 3800 3100
+Wire Wire Line
+	3800 3100 4200 3100
+Wire Wire Line
+	3800 3200 3800 3250
+Wire Wire Line
+	3800 3850 3900 3850
+Wire Wire Line
+	4200 3200 3800 3200
+Wire Wire Line
+	4200 3400 4300 3400
+Wire Wire Line
+	4200 3850 4500 3850
+Wire Wire Line
+	4200 6850 4300 6850
+Wire Wire Line
+	4200 6950 4200 6850
+Wire Wire Line
+	4200 7250 5350 7250
+Wire Wire Line
+	4200 7450 4300 7450
+Wire Wire Line
+	4200 7550 4200 7450
+Wire Wire Line
+	4200 7850 5350 7850
+Wire Wire Line
+	4200 8250 4300 8250
+Wire Wire Line
+	4200 8350 4200 8250
+Wire Wire Line
+	4200 8650 5350 8650
+Wire Wire Line
+	4200 9600 4300 9600
+Wire Wire Line
+	4200 9700 4200 9600
+Wire Wire Line
+	4200 10000 5350 10000
+Wire Wire Line
+	4300 3300 4300 3400
+Wire Wire Line
+	4300 3300 4600 3300
+Wire Wire Line
+	4300 3400 5000 3400
+Wire Wire Line
+	4300 4500 4400 4500
+Wire Wire Line
+	4300 8850 4300 9100
+Wire Wire Line
+	4300 9100 4300 9350
+Wire Wire Line
+	4300 9350 4300 9600
+Wire Wire Line
+	4350 4050 4500 4050
+Wire Wire Line
+	4400 4400 4400 4500
+Wire Wire Line
+	4400 4400 5000 4400
+Wire Wire Line
+	4500 3100 5000 3100
+Wire Wire Line
+	4500 3200 5000 3200
+Wire Wire Line
+	4500 3850 4500 4050
+Wire Wire Line
+	4500 4050 4750 4050
+Wire Wire Line
+	4900 2200 4900 2300
+Wire Wire Line
+	4900 2300 4900 2400
+Wire Wire Line
+	4900 2400 4900 2500
+Wire Wire Line
+	4900 2500 4900 2600
+Wire Wire Line
+	4900 2600 4900 2800
+Wire Wire Line
+	4900 2800 5000 2800
+Wire Wire Line
+	4900 3000 4900 2800
+Wire Wire Line
+	4900 3000 5000 3000
+Wire Wire Line
+	4900 3300 5000 3300
+Wire Wire Line
+	4900 4900 5000 4900
+Wire Wire Line
+	4900 5000 4900 4900
+Wire Wire Line
+	4900 5000 5000 5000
+Wire Wire Line
+	4900 5100 4900 5000
+Wire Wire Line
+	4900 5200 4900 5100
+Wire Wire Line
+	4900 5300 4900 5200
+Wire Wire Line
+	4900 6250 4900 6850
+Wire Wire Line
+	4900 6850 4900 7450
+Wire Wire Line
+	4900 7450 4900 8250
+Wire Wire Line
+	4900 8250 4900 8850
+Wire Wire Line
+	4900 8850 4900 9100
+Wire Wire Line
+	4900 9100 4900 9350
+Wire Wire Line
+	4900 9350 4900 9600
+Wire Wire Line
+	4950 900  4950 1000
+Wire Wire Line
+	4950 1000 4950 1100
+Wire Wire Line
+	4950 1000 5300 1000
+Wire Wire Line
+	4950 1400 4950 1500
+Wire Wire Line
+	4950 1500 4950 1600
+Wire Wire Line
+	4950 1500 5300 1500
+Wire Wire Line
+	5000 2300 4900 2300
+Wire Wire Line
+	5000 2400 4900 2400
+Wire Wire Line
+	5000 2500 4900 2500
+Wire Wire Line
+	5000 2600 4900 2600
+Wire Wire Line
+	5000 5100 4900 5100
+Wire Wire Line
+	5000 5200 4900 5200
+Wire Wire Line
+	5300 1000 5300 1100
+Wire Wire Line
+	5300 1000 5650 1000
+Wire Wire Line
+	5300 1400 5300 1500
+Wire Wire Line
+	5300 1500 5650 1500
+Wire Wire Line
+	5350 6850 5450 6850
+Wire Wire Line
+	5350 6950 5350 6850
+Wire Wire Line
+	5350 7250 6500 7250
+Wire Wire Line
+	5350 7450 5450 7450
+Wire Wire Line
+	5350 7550 5350 7450
+Wire Wire Line
+	5350 7850 6500 7850
+Wire Wire Line
+	5350 8250 5450 8250
+Wire Wire Line
+	5350 8350 5350 8250
+Wire Wire Line
+	5350 8650 6500 8650
+Wire Wire Line
+	5350 9600 5450 9600
+Wire Wire Line
+	5350 9700 5350 9600
+Wire Wire Line
+	5350 10000 6500 10000
+Wire Wire Line
+	5650 1000 5650 1100
+Wire Wire Line
+	5650 1000 6000 1000
+Wire Wire Line
+	5650 1500 5650 1400
+Wire Wire Line
+	5650 1500 6000 1500
+Wire Wire Line
+	6000 1000 6000 1100
+Wire Wire Line
+	6000 1000 6350 1000
+Wire Wire Line
+	6000 1500 6000 1400
+Wire Wire Line
+	6000 1500 6350 1500
+Wire Wire Line
+	6050 6250 6050 6850
+Wire Wire Line
+	6050 6850 6050 7450
+Wire Wire Line
+	6050 7450 6050 8250
+Wire Wire Line
+	6050 9600 6050 8250
+Wire Wire Line
+	6350 1000 6350 1100
+Wire Wire Line
+	6350 1500 6350 1400
+Wire Wire Line
+	6500 6850 6600 6850
+Wire Wire Line
+	6500 6950 6500 6850
+Wire Wire Line
+	6500 7250 7650 7250
+Wire Wire Line
+	6500 7450 6600 7450
+Wire Wire Line
+	6500 7550 6500 7450
+Wire Wire Line
+	6500 7850 7650 7850
+Wire Wire Line
+	6500 8250 6600 8250
+Wire Wire Line
+	6500 8350 6500 8250
+Wire Wire Line
+	6500 8650 7650 8650
+Wire Wire Line
+	6500 9600 6600 9600
+Wire Wire Line
+	6500 9700 6500 9600
+Wire Wire Line
+	6500 10000 8800 10000
+Wire Wire Line
+	6600 9350 6600 9600
+Wire Wire Line
+	7200 6850 7200 6250
+Wire Wire Line
+	7200 7450 7200 6850
+Wire Wire Line
+	7200 7450 7200 8250
+Wire Wire Line
+	7200 8250 7200 9350
+Wire Wire Line
+	7200 9350 7200 9600
+Wire Wire Line
+	7450 2400 7500 2400
+Wire Wire Line
+	7450 2500 7500 2500
+Wire Wire Line
+	7450 2600 7500 2600
+Wire Wire Line
+	7450 2700 7550 2700
+Wire Wire Line
+	7450 2900 7550 2900
+Wire Wire Line
+	7450 3000 7550 3000
+Wire Wire Line
+	7450 3300 7650 3300
+Wire Wire Line
+	7450 4200 7550 4200
+Wire Wire Line
+	7450 4400 7550 4400
+Wire Wire Line
+	7450 4500 7550 4500
+Wire Wire Line
+	7450 4800 7550 4800
+Wire Wire Line
+	7500 2400 7500 2450
+Wire Wire Line
+	7500 2400 7550 2400
+Wire Wire Line
+	7500 2450 7800 2450
+Wire Wire Line
+	7500 2500 7500 2550
+Wire Wire Line
+	7500 2550 7800 2550
+Wire Wire Line
+	7500 2600 7550 2600
+Wire Wire Line
+	7500 2650 7500 2600
+Wire Wire Line
+	7550 2800 7450 2800
+Wire Wire Line
+	7550 3200 7450 3200
+Wire Wire Line
+	7550 3900 7450 3900
+Wire Wire Line
+	7550 4100 7450 4100
+Wire Wire Line
+	7550 4700 7450 4700
+Wire Wire Line
+	7550 4900 7450 4900
+Wire Wire Line
+	7550 5000 7450 5000
+Wire Wire Line
+	7550 5100 7450 5100
+Wire Wire Line
+	7550 5200 7450 5200
+Wire Wire Line
+	7650 6850 7750 6850
+Wire Wire Line
+	7650 6950 7650 6850
+Wire Wire Line
+	7650 7250 8800 7250
+Wire Wire Line
+	7650 7450 7750 7450
+Wire Wire Line
+	7650 7550 7650 7450
+Wire Wire Line
+	7650 7850 8800 7850
+Wire Wire Line
+	7650 8250 7750 8250
+Wire Wire Line
+	7650 8350 7650 8250
+Wire Wire Line
+	7650 8650 8800 8650
+Wire Wire Line
+	7800 2450 7800 2400
+Wire Wire Line
+	7800 2550 7800 2500
+Wire Wire Line
+	7800 2600 7800 2650
+Wire Wire Line
+	7800 2650 7500 2650
+Wire Wire Line
+	7850 4400 7950 4400
+Wire Wire Line
+	8350 6250 8350 6850
+Wire Wire Line
+	8350 6850 8350 7450
+Wire Wire Line
+	8350 7450 8350 8250
+Wire Wire Line
+	8800 6850 8900 6850
+Wire Wire Line
+	8800 6950 8800 6850
+Wire Wire Line
+	8800 7250 9950 7250
+Wire Wire Line
+	8800 7450 8900 7450
+Wire Wire Line
+	8800 7550 8800 7450
+Wire Wire Line
+	8800 7850 9950 7850
+Wire Wire Line
+	8800 8250 8900 8250
+Wire Wire Line
+	8800 8350 8800 8250
+Wire Wire Line
+	8800 8650 9950 8650
+Wire Wire Line
+	8800 9600 8900 9600
+Wire Wire Line
+	8800 9700 8800 9600
+Wire Wire Line
+	8800 10000 9950 10000
+Wire Wire Line
+	8900 8850 8900 9100
+Wire Wire Line
+	8900 9100 8900 9350
+Wire Wire Line
+	8900 9350 8900 9600
+Wire Wire Line
+	9500 6250 9500 6850
+Wire Wire Line
+	9500 6850 9500 7450
+Wire Wire Line
+	9500 7450 9500 8250
+Wire Wire Line
+	9500 8850 9500 8250
+Wire Wire Line
+	9500 8850 9500 9100
+Wire Wire Line
+	9500 9100 9500 9350
+Wire Wire Line
+	9500 9350 9500 9600
+Wire Wire Line
+	9950 6850 10050 6850
+Wire Wire Line
+	9950 6950 9950 6850
+Wire Wire Line
+	9950 7250 11100 7250
+Wire Wire Line
+	9950 7450 10050 7450
+Wire Wire Line
+	9950 7550 9950 7450
+Wire Wire Line
+	9950 7850 11100 7850
+Wire Wire Line
+	9950 8250 10050 8250
+Wire Wire Line
+	9950 8350 9950 8250
+Wire Wire Line
+	9950 8650 11100 8650
+Wire Wire Line
+	9950 9600 10050 9600
+Wire Wire Line
+	9950 9700 9950 9600
+Wire Wire Line
+	9950 10000 12250 10000
+Wire Wire Line
+	10050 9350 10050 9600
+Wire Wire Line
+	10650 6250 10650 6850
+Wire Wire Line
+	10650 6850 10650 7450
+Wire Wire Line
+	10650 7450 10650 8250
+Wire Wire Line
+	10650 8250 10650 9350
+Wire Wire Line
+	10650 9350 10650 9600
+Wire Wire Line
+	11100 6850 11200 6850
+Wire Wire Line
+	11100 6950 11100 6850
+Wire Wire Line
+	11100 7250 12250 7250
+Wire Wire Line
+	11100 7450 11200 7450
+Wire Wire Line
+	11100 7550 11100 7450
+Wire Wire Line
+	11100 7850 12250 7850
+Wire Wire Line
+	11100 8250 11200 8250
+Wire Wire Line
+	11100 8350 11100 8250
+Wire Wire Line
+	11100 8650 12250 8650
+Wire Wire Line
+	11800 6250 11800 6850
+Wire Wire Line
+	11800 6850 11800 7450
+Wire Wire Line
+	11800 7450 11800 8250
+Wire Wire Line
+	12250 6850 12350 6850
+Wire Wire Line
+	12250 6950 12250 6850
+Wire Wire Line
+	12250 7250 13400 7250
+Wire Wire Line
+	12250 7450 12350 7450
+Wire Wire Line
+	12250 7550 12250 7450
+Wire Wire Line
+	12250 7850 13400 7850
+Wire Wire Line
+	12250 8250 12350 8250
+Wire Wire Line
+	12250 8350 12250 8250
+Wire Wire Line
+	12250 8650 13400 8650
+Wire Wire Line
+	12250 9600 12350 9600
+Wire Wire Line
+	12250 9700 12250 9600
+Wire Wire Line
+	12250 10000 13400 10000
+Wire Wire Line
+	12350 9100 12350 9350
+Wire Wire Line
+	12350 9350 12350 9600
+Wire Wire Line
+	12950 6250 12950 6850
+Wire Wire Line
+	12950 6850 12950 7450
+Wire Wire Line
+	12950 7450 12950 8250
+Wire Wire Line
+	12950 8250 12950 9100
+Wire Wire Line
+	12950 9100 12950 9350
+Wire Wire Line
+	12950 9350 12950 9600
+Wire Wire Line
+	13400 6850 13500 6850
+Wire Wire Line
+	13400 6950 13400 6850
+Wire Wire Line
+	13400 7250 14550 7250
+Wire Wire Line
+	13400 7450 13500 7450
+Wire Wire Line
+	13400 7550 13400 7450
+Wire Wire Line
+	13400 7850 14550 7850
+Wire Wire Line
+	13400 8050 13400 8250
+Wire Wire Line
+	13400 8250 13500 8250
+Wire Wire Line
+	13400 8350 13400 8250
+Wire Wire Line
+	13400 8650 14550 8650
+Wire Wire Line
+	13400 9600 13500 9600
+Wire Wire Line
+	13400 9700 13400 9600
+Wire Wire Line
+	13400 10000 14550 10000
+Wire Wire Line
+	13500 8050 13400 8050
+Wire Wire Line
+	13500 9350 13500 9600
+Wire Wire Line
+	14100 6250 14100 6850
+Wire Wire Line
+	14100 6850 14100 7450
+Wire Wire Line
+	14100 7450 14100 8050
+Wire Wire Line
+	14100 8050 14100 8250
+Wire Wire Line
+	14100 9350 14100 8250
+Wire Wire Line
+	14100 9600 14100 9350
+Wire Wire Line
+	14550 6850 14650 6850
+Wire Wire Line
+	14550 6950 14550 6850
+Wire Wire Line
+	14550 7250 15700 7250
+Wire Wire Line
+	14550 7450 14650 7450
+Wire Wire Line
+	14550 7550 14550 7450
+Wire Wire Line
+	14550 8000 14550 8250
+Wire Wire Line
+	14550 8250 14650 8250
+Wire Wire Line
+	14550 8350 14550 8250
+Wire Wire Line
+	14550 9600 14650 9600
+Wire Wire Line
+	14550 9700 14550 9600
+Wire Wire Line
+	14650 8000 14550 8000
+Wire Wire Line
+	15250 6250 15250 6850
+Wire Wire Line
+	15250 6850 15250 7450
+Wire Wire Line
+	15250 7450 15250 8000
+Wire Wire Line
+	15250 8000 15250 8250
+Wire Wire Line
+	15250 8250 15250 9600
+Wire Wire Line
+	15700 6850 15800 6850
+Wire Wire Line
+	15700 6950 15700 6850
+Wire Wire Line
+	15800 6600 15800 6850
+Wire Wire Line
+	16400 6250 16400 6600
+Wire Wire Line
+	16400 6600 16400 6850
+Text GLabel 1400 7250 0    60   Input ~ 0
+row0
+Text GLabel 1400 7850 0    60   Input ~ 0
+row1
+Text GLabel 1400 8650 0    60   Input ~ 0
+row2
+Text GLabel 1400 10000 0    60   Input ~ 0
+row3
+Text GLabel 1850 3500 2    28   Input ~ 0
+D-
+Text GLabel 1850 3600 2    28   Input ~ 0
+D+
+Text GLabel 2600 6250 0    60   Input ~ 0
+col0
+Text GLabel 2650 3050 0    28   Input ~ 0
+D+
+Text GLabel 2650 3250 0    28   Input ~ 0
+D-
+Text GLabel 3750 6250 0    60   Input ~ 0
+col1
+Text GLabel 4750 4050 2    28   Input ~ 0
+RST
+Text GLabel 4900 6250 0    60   Input ~ 0
+col2
+Text GLabel 5000 3700 0    28   Input ~ 0
+RST
+Text GLabel 6050 6250 0    60   Input ~ 0
+col3
+Text GLabel 7100 1450 0    28   Input ~ 0
+MISO
+Text GLabel 7100 1550 0    28   Input ~ 0
+SCK
+Text GLabel 7100 1650 0    28   Input ~ 0
+RST
+Text GLabel 7200 6250 0    60   Input ~ 0
+col4
+Text GLabel 7550 2400 2    28   Input ~ 0
+row0
+Text GLabel 7550 2600 2    28   Input ~ 0
+row1
+Text GLabel 7550 2700 2    28   Input ~ 0
+col3
+Text GLabel 7550 2800 2    28   Input ~ 0
+col2
+Text GLabel 7550 2900 2    28   Input ~ 0
+col1
+Text GLabel 7550 3000 2    28   Input ~ 0
+col11
+Text GLabel 7550 3200 2    28   Input ~ 0
+col0
+Text GLabel 7550 3900 2    28   Input ~ 0
+row2
+Text GLabel 7550 4100 2    28   Input ~ 0
+row3
+Text GLabel 7550 4200 2    28   Input ~ 0
+col4
+Text GLabel 7550 4500 2    28   Input ~ 0
+col12
+Text GLabel 7550 4700 2    28   Input ~ 0
+col5
+Text GLabel 7550 4800 2    28   Input ~ 0
+col6
+Text GLabel 7550 4900 2    28   Input ~ 0
+col7
+Text GLabel 7550 5000 2    28   Input ~ 0
+col8
+Text GLabel 7550 5100 2    28   Input ~ 0
+col9
+Text GLabel 7550 5200 2    28   Input ~ 0
+col10
+Text GLabel 7600 1550 2    28   Input ~ 0
+MOSI
+Text GLabel 7800 2400 2    28   Input ~ 0
+SCK
+Text GLabel 7800 2500 2    28   Input ~ 0
+MOSI
+Text GLabel 7800 2600 2    28   Input ~ 0
+MISO
+Text GLabel 8350 6250 0    60   Input ~ 0
+col5
+Text GLabel 9500 6250 0    60   Input ~ 0
+col6
+Text GLabel 10650 6250 0    60   Input ~ 0
+col7
+Text GLabel 11800 6250 0    60   Input ~ 0
+col8
+Text GLabel 12950 6250 0    60   Input ~ 0
+col9
+Text GLabel 14100 6250 0    60   Input ~ 0
+col10
+Text GLabel 15250 6250 0    60   Input ~ 0
+col11
+Text GLabel 16400 6250 0    60   Input ~ 0
+col12
+$Comp
+L Power:VCC #PWR07
+U 1 1 596FE4C9
+P 1750 2200
+F 0 "#PWR07" H 1750 2050 50  0001 C CNN
+F 1 "VCC" H 1750 2350 50  0000 C CNN
+F 2 "" H 1750 2200 50  0001 C CNN
+F 3 "" H 1750 2200 50  0001 C CNN
+	1    1750 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Power:VBUS #PWR0103
+U 1 1 5D9EDCF1
+P 1750 3000
+F 0 "#PWR0103" H 1750 2850 50  0001 C CNN
+F 1 "VBUS" V 1765 3128 50  0000 L CNN
+F 2 "" H 1750 3000 50  0001 C CNN
+F 3 "" H 1750 3000 50  0001 C CNN
+	1    1750 3000
+	0    1    1    0   
+$EndComp
+$Comp
+L Power:VBUS #PWR0105
+U 1 1 5D9E8645
+P 3450 3150
+F 0 "#PWR0105" H 3450 3000 50  0001 C CNN
+F 1 "VBUS" V 3465 3278 50  0000 L CNN
+F 2 "" H 3450 3150 50  0001 C CNN
+F 3 "" H 3450 3150 50  0001 C CNN
+	1    3450 3150
+	0    1    1    0   
+$EndComp
+$Comp
+L Power:VCC #PWR04
+U 1 1 596FD173
+P 3800 3850
+F 0 "#PWR04" H 3800 3700 50  0001 C CNN
+F 1 "VCC" H 3800 4000 50  0000 C CNN
+F 2 "" H 3800 3850 50  0001 C CNN
+F 3 "" H 3800 3850 50  0001 C CNN
+	1    3800 3850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Power:VCC #PWR0102
+U 1 1 5C2273BD
+P 4900 2200
+F 0 "#PWR0102" H 4900 2050 50  0001 C CNN
+F 1 "VCC" H 4900 2350 50  0000 C CNN
+F 2 "" H 4900 2200 50  0001 C CNN
+F 3 "" H 4900 2200 50  0001 C CNN
+	1    4900 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Power:VCC #PWR02
+U 1 1 596FC467
+P 4950 900
+F 0 "#PWR02" H 4950 750 50  0001 C CNN
+F 1 "VCC" H 4950 1050 50  0000 C CNN
+F 2 "" H 4950 900 50  0001 C CNN
+F 3 "" H 4950 900 50  0001 C CNN
+	1    4950 900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Power:VCC #PWR019
+U 1 1 59EE9E32
+P 7600 1450
+F 0 "#PWR019" H 7600 1300 50  0001 C CNN
+F 1 "VCC" H 7600 1600 50  0000 C CNN
+F 2 "" H 7600 1450 50  0001 C CNN
+F 3 "" H 7600 1450 50  0001 C CNN
+	1    7600 1450
+	0    1    1    0   
+$EndComp
+$Comp
+L Power:VCC #PWR020
+U 1 1 5A9D814D
+P 8250 3300
+F 0 "#PWR020" H 8250 3150 50  0001 C CNN
+F 1 "VCC" H 8250 3450 50  0000 C CNN
+F 2 "" H 8250 3300 50  0001 C CNN
+F 3 "" H 8250 3300 50  0001 C CNN
+	1    8250 3300
+	0    1    1    0   
+$EndComp
+$Comp
+L Power:GND #PWR0104
+U 1 1 5BD877EF
+P 1450 2900
+F 0 "#PWR0104" H 1450 2650 50  0001 C CNN
+F 1 "GND" H 1450 2750 50  0000 C CNN
+F 2 "" H 1450 2900 50  0001 C CNN
+F 3 "" H 1450 2900 50  0001 C CNN
+	1    1450 2900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Power:GND #PWR0101
+U 1 1 5BAADA38
+P 2500 4200
+F 0 "#PWR0101" H 2500 3950 50  0001 C CNN
+F 1 "GND" H 2500 4050 50  0000 C CNN
+F 2 "" H 2500 4200 50  0001 C CNN
+F 3 "" H 2500 4200 50  0001 C CNN
+	1    2500 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Power:GND #PWR0106
+U 1 1 5D9EA4F4
+P 2650 3150
+F 0 "#PWR0106" H 2650 2900 50  0001 C CNN
+F 1 "GND" H 2650 3000 50  0000 C CNN
+F 2 "" H 2650 3150 50  0001 C CNN
+F 3 "" H 2650 3150 50  0001 C CNN
+	1    2650 3150
+	0    1    1    0   
+$EndComp
+$Comp
+L Power:GND #PWR05
+U 1 1 596FD19D
+P 3650 4050
+F 0 "#PWR05" H 3650 3800 50  0001 C CNN
+F 1 "GND" H 3650 3900 50  0000 C CNN
+F 2 "" H 3650 4050 50  0001 C CNN
+F 3 "" H 3650 4050 50  0001 C CNN
+	1    3650 4050
+	0    1    1    0   
+$EndComp
+$Comp
+L Power:GND #PWR01
+U 1 1 596FC0C7
+P 4000 4700
+F 0 "#PWR01" H 4000 4450 50  0001 C CNN
+F 1 "GND" H 4000 4550 50  0000 C CNN
+F 2 "" H 4000 4700 50  0001 C CNN
+F 3 "" H 4000 4700 50  0001 C CNN
+	1    4000 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Power:GND #PWR08
+U 1 1 596FE8FC
+P 4200 3400
+F 0 "#PWR08" H 4200 3150 50  0001 C CNN
+F 1 "GND" H 4200 3250 50  0000 C CNN
+F 2 "" H 4200 3400 50  0001 C CNN
+F 3 "" H 4200 3400 50  0001 C CNN
+	1    4200 3400
+	0    1    -1   0   
+$EndComp
+$Comp
+L Power:GND #PWR017
+U 1 1 596FFAA3
+P 4900 5300
+F 0 "#PWR017" H 4900 5050 50  0001 C CNN
+F 1 "GND" H 4900 5150 50  0000 C CNN
+F 2 "" H 4900 5300 50  0001 C CNN
+F 3 "" H 4900 5300 50  0001 C CNN
+	1    4900 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Power:GND #PWR03
+U 1 1 596FCAA6
+P 4950 1600
+F 0 "#PWR03" H 4950 1350 50  0001 C CNN
+F 1 "GND" H 4950 1450 50  0000 C CNN
+F 2 "" H 4950 1600 50  0001 C CNN
+F 3 "" H 4950 1600 50  0001 C CNN
+	1    4950 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Power:GND #PWR018
+U 1 1 59EE9BFF
+P 7600 1650
+F 0 "#PWR018" H 7600 1400 50  0001 C CNN
+F 1 "GND" H 7600 1500 50  0000 C CNN
+F 2 "" H 7600 1650 50  0001 C CNN
+F 3 "" H 7600 1650 50  0001 C CNN
+	1    7600 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Power:GND #PWR06
+U 1 1 596FD64A
+P 7950 4400
+F 0 "#PWR06" H 7950 4150 50  0001 C CNN
+F 1 "GND" H 7950 4250 50  0000 C CNN
+F 2 "" H 7950 4400 50  0001 C CNN
+F 3 "" H 7950 4400 50  0001 C CNN
+	1    7950 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5BD6995D
+P 2250 3700
+F 0 "R1" V 2150 3700 50  0000 C CNN
+F 1 "5.1k" V 2250 3700 50  0000 C CNN
+F 2 "Keeb_components:R_0603" V 2180 3700 50  0001 C CNN
+F 3 "~" H 2250 3700 50  0001 C CNN
+	1    2250 3700
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5BD6A85A
+P 2250 3800
+F 0 "R2" V 2350 3800 50  0000 C CNN
+F 1 "5.1k" V 2250 3800 50  0000 C CNN
+F 2 "Keeb_components:R_0603" V 2180 3800 50  0001 C CNN
+F 3 "~" H 2250 3800 50  0001 C CNN
+	1    2250 3800
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 596FCF4C
+P 4050 3850
+F 0 "R5" V 4130 3850 50  0000 C CNN
+F 1 "10k" V 4050 3850 50  0000 C CNN
+F 2 "Keeb_components:R_0603" V 3980 3850 50  0001 C CNN
+F 3 "" H 4050 3850 50  0001 C CNN
+	1    4050 3850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 5BF36EEB
+P 4350 3100
+F 0 "R3" V 4450 3100 50  0000 C CNN
+F 1 "22" V 4350 3100 50  0000 C CNN
+F 2 "Keeb_components:R_0603" V 4280 3100 50  0001 C CNN
+F 3 "~" H 4350 3100 50  0001 C CNN
+	1    4350 3100
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 5BF66CBD
+P 4350 3200
+F 0 "R4" V 4250 3200 50  0000 C CNN
+F 1 "22" V 4350 3200 50  0000 C CNN
+F 2 "Keeb_components:R_0603" V 4280 3200 50  0001 C CNN
+F 3 "~" H 4350 3200 50  0001 C CNN
+	1    4350 3200
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 596FD444
+P 7700 4400
+F 0 "R6" V 7780 4400 50  0000 C CNN
+F 1 "10k" V 7700 4400 50  0000 C CNN
+F 2 "Keeb_components:R_0603" V 7630 4400 50  0001 C CNN
+F 3 "" H 7700 4400 50  0001 C CNN
+	1    7700 4400
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R R100
+U 1 1 5A598E99
+P 8100 3300
+F 0 "R100" V 8000 3300 50  0000 C CNN
+F 1 "1k" V 8100 3300 50  0000 C CNN
+F 2 "Keeb_components:R_0805" V 8030 3300 50  0001 C CNN
+F 3 "" H 8100 3300 50  0001 C CNN
+	1    8100 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 H1
+U 1 1 5B54646E
+P 8400 800
+F 0 "H1" H 8400 900 50  0000 C CNN
+F 1 "Screw" H 8400 700 50  0000 C CNN
+F 2 "footprints:2mm_hole" H 8400 800 50  0001 C CNN
+F 3 "" H 8400 800 50  0001 C CNN
+	1    8400 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 H2
+U 1 1 5B546A9C
+P 8400 1100
+F 0 "H2" H 8400 1200 50  0000 C CNN
+F 1 "Screw" H 8400 1000 50  0000 C CNN
+F 2 "footprints:2mm_hole" H 8400 1100 50  0001 C CNN
+F 3 "" H 8400 1100 50  0001 C CNN
+	1    8400 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 H3
+U 1 1 5B546CAC
+P 9050 800
+F 0 "H3" H 9050 900 50  0000 C CNN
+F 1 "Screw" H 9050 700 50  0000 C CNN
+F 2 "footprints:2mm_hole" H 9050 800 50  0001 C CNN
+F 3 "" H 9050 800 50  0001 C CNN
+	1    9050 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 H4
+U 1 1 5B547B46
+P 9050 1100
+F 0 "H4" H 9050 1200 50  0000 C CNN
+F 1 "Screw" H 9050 1000 50  0000 C CNN
+F 2 "footprints:2mm_hole" H 9050 1100 50  0001 C CNN
+F 3 "" H 9050 1100 50  0001 C CNN
+	1    9050 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 H5
+U 1 1 5B547CC3
+P 9050 1400
+F 0 "H5" H 9050 1500 50  0000 C CNN
+F 1 "Screw" H 9050 1300 50  0000 C CNN
+F 2 "footprints:2mm_hole" H 9050 1400 50  0001 C CNN
+F 3 "" H 9050 1400 50  0001 C CNN
+	1    9050 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 H6
+U 1 1 5B54A01C
+P 9700 800
+F 0 "H6" H 9700 900 50  0000 C CNN
+F 1 "Screw" H 9700 700 50  0000 C CNN
+F 2 "footprints:2mm_hole" H 9700 800 50  0001 C CNN
+F 3 "" H 9700 800 50  0001 C CNN
+	1    9700 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 H7
+U 1 1 5B54A022
+P 9700 1100
+F 0 "H7" H 9700 1200 50  0000 C CNN
+F 1 "Screw" H 9700 1000 50  0000 C CNN
+F 2 "footprints:2mm_hole" H 9700 1100 50  0001 C CNN
+F 3 "" H 9700 1100 50  0001 C CNN
+	1    9700 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 H8
+U 1 1 5B54A028
+P 9700 1450
+F 0 "H8" H 9700 1550 50  0000 C CNN
+F 1 "Screw" H 9700 1350 50  0000 C CNN
+F 2 "footprints:2mm_hole" H 9700 1450 50  0001 C CNN
+F 3 "" H 9700 1450 50  0001 C CNN
+	1    9700 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_ALT D1
+U 1 1 597003D9
+P 1900 7100
+F 0 "D1" H 1900 7200 50  0000 C CNN
+F 1 "D" H 1900 7000 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 1900 7100 50  0001 C CNN
+F 3 "" H 1900 7100 50  0001 C CNN
+	1    1900 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D14
+U 1 1 597004B0
+P 1900 7700
+F 0 "D14" H 1900 7800 50  0000 C CNN
+F 1 "D" H 1900 7600 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 1900 7700 50  0001 C CNN
+F 3 "" H 1900 7700 50  0001 C CNN
+	1    1900 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D27
+U 1 1 59700531
+P 1900 8500
+F 0 "D27" H 1900 8600 50  0000 C CNN
+F 1 "D" H 1900 8400 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 1900 8500 50  0001 C CNN
+F 3 "" H 1900 8500 50  0001 C CNN
+	1    1900 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D40
+U 1 1 5970059D
+P 1900 9850
+F 0 "D40" H 1900 9950 50  0000 C CNN
+F 1 "D" H 1900 9750 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 1900 9850 50  0001 C CNN
+F 3 "" H 1900 9850 50  0001 C CNN
+	1    1900 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D2
+U 1 1 5970123E
+P 3050 7100
+F 0 "D2" H 3050 7200 50  0000 C CNN
+F 1 "D" H 3050 7000 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 3050 7100 50  0001 C CNN
+F 3 "" H 3050 7100 50  0001 C CNN
+	1    3050 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D15
+U 1 1 59701244
+P 3050 7700
+F 0 "D15" H 3050 7800 50  0000 C CNN
+F 1 "D" H 3050 7600 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 3050 7700 50  0001 C CNN
+F 3 "" H 3050 7700 50  0001 C CNN
+	1    3050 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D28
+U 1 1 59701690
+P 3050 8500
+F 0 "D28" H 3050 8600 50  0000 C CNN
+F 1 "D" H 3050 8400 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 3050 8500 50  0001 C CNN
+F 3 "" H 3050 8500 50  0001 C CNN
+	1    3050 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D41
+U 1 1 59701250
+P 3050 9850
+F 0 "D41" H 3050 9950 50  0000 C CNN
+F 1 "D" H 3050 9750 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 3050 9850 50  0001 C CNN
+F 3 "" H 3050 9850 50  0001 C CNN
+	1    3050 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D3
+U 1 1 59701684
+P 4200 7100
+F 0 "D3" H 4200 7200 50  0000 C CNN
+F 1 "D" H 4200 7000 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 4200 7100 50  0001 C CNN
+F 3 "" H 4200 7100 50  0001 C CNN
+	1    4200 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D16
+U 1 1 5970168A
+P 4200 7700
+F 0 "D16" H 4200 7800 50  0000 C CNN
+F 1 "D" H 4200 7600 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 4200 7700 50  0001 C CNN
+F 3 "" H 4200 7700 50  0001 C CNN
+	1    4200 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D29
+U 1 1 59701DE6
+P 4200 8500
+F 0 "D29" H 4200 8600 50  0000 C CNN
+F 1 "D" H 4200 8400 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 4200 8500 50  0001 C CNN
+F 3 "" H 4200 8500 50  0001 C CNN
+	1    4200 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D42
+U 1 1 59701696
+P 4200 9850
+F 0 "D42" H 4200 9950 50  0000 C CNN
+F 1 "D" H 4200 9750 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 4200 9850 50  0001 C CNN
+F 3 "" H 4200 9850 50  0001 C CNN
+	1    4200 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D4
+U 1 1 59701DDA
+P 5350 7100
+F 0 "D4" H 5350 7200 50  0000 C CNN
+F 1 "D" H 5350 7000 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 5350 7100 50  0001 C CNN
+F 3 "" H 5350 7100 50  0001 C CNN
+	1    5350 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D17
+U 1 1 59701DE0
+P 5350 7700
+F 0 "D17" H 5350 7800 50  0000 C CNN
+F 1 "D" H 5350 7600 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 5350 7700 50  0001 C CNN
+F 3 "" H 5350 7700 50  0001 C CNN
+	1    5350 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D30
+U 1 1 597020B8
+P 5350 8500
+F 0 "D30" H 5350 8600 50  0000 C CNN
+F 1 "D" H 5350 8400 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 5350 8500 50  0001 C CNN
+F 3 "" H 5350 8500 50  0001 C CNN
+	1    5350 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D43
+U 1 1 59701DEC
+P 5350 9850
+F 0 "D43" H 5350 9950 50  0000 C CNN
+F 1 "D" H 5350 9750 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 5350 9850 50  0001 C CNN
+F 3 "" H 5350 9850 50  0001 C CNN
+	1    5350 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D5
+U 1 1 597020AC
+P 6500 7100
+F 0 "D5" H 6500 7200 50  0000 C CNN
+F 1 "D" H 6500 7000 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 6500 7100 50  0001 C CNN
+F 3 "" H 6500 7100 50  0001 C CNN
+	1    6500 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D18
+U 1 1 597020B2
+P 6500 7700
+F 0 "D18" H 6500 7800 50  0000 C CNN
+F 1 "D" H 6500 7600 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 6500 7700 50  0001 C CNN
+F 3 "" H 6500 7700 50  0001 C CNN
+	1    6500 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D31
+U 1 1 5970396A
+P 6500 8500
+F 0 "D31" H 6500 8600 50  0000 C CNN
+F 1 "D" H 6500 8400 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 6500 8500 50  0001 C CNN
+F 3 "" H 6500 8500 50  0001 C CNN
+	1    6500 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D44
+U 1 1 597020BE
+P 6500 9850
+F 0 "D44" H 6500 9950 50  0000 C CNN
+F 1 "D" H 6500 9750 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 6500 9850 50  0001 C CNN
+F 3 "" H 6500 9850 50  0001 C CNN
+	1    6500 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D6
+U 1 1 5970395E
+P 7650 7100
+F 0 "D6" H 7650 7200 50  0000 C CNN
+F 1 "D" H 7650 7000 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 7650 7100 50  0001 C CNN
+F 3 "" H 7650 7100 50  0001 C CNN
+	1    7650 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D19
+U 1 1 59703964
+P 7650 7700
+F 0 "D19" H 7650 7800 50  0000 C CNN
+F 1 "D" H 7650 7600 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 7650 7700 50  0001 C CNN
+F 3 "" H 7650 7700 50  0001 C CNN
+	1    7650 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D32
+U 1 1 59706CC8
+P 7650 8500
+F 0 "D32" H 7650 8600 50  0000 C CNN
+F 1 "D" H 7650 8400 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 7650 8500 50  0001 C CNN
+F 3 "" H 7650 8500 50  0001 C CNN
+	1    7650 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D7
+U 1 1 59706CBC
+P 8800 7100
+F 0 "D7" H 8800 7200 50  0000 C CNN
+F 1 "D" H 8800 7000 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 8800 7100 50  0001 C CNN
+F 3 "" H 8800 7100 50  0001 C CNN
+	1    8800 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D20
+U 1 1 59706CC2
+P 8800 7700
+F 0 "D20" H 8800 7800 50  0000 C CNN
+F 1 "D" H 8800 7600 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 8800 7700 50  0001 C CNN
+F 3 "" H 8800 7700 50  0001 C CNN
+	1    8800 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D33
+U 1 1 59708C90
+P 8800 8500
+F 0 "D33" H 8800 8600 50  0000 C CNN
+F 1 "D" H 8800 8400 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 8800 8500 50  0001 C CNN
+F 3 "" H 8800 8500 50  0001 C CNN
+	1    8800 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D46
+U 1 1 59706CCE
+P 8800 9850
+F 0 "D46" H 8800 9950 50  0000 C CNN
+F 1 "D" H 8800 9750 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 8800 9850 50  0001 C CNN
+F 3 "" H 8800 9850 50  0001 C CNN
+	1    8800 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D8
+U 1 1 59708C84
+P 9950 7100
+F 0 "D8" H 9950 7200 50  0000 C CNN
+F 1 "D" H 9950 7000 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 9950 7100 50  0001 C CNN
+F 3 "" H 9950 7100 50  0001 C CNN
+	1    9950 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D21
+U 1 1 59708C8A
+P 9950 7700
+F 0 "D21" H 9950 7800 50  0000 C CNN
+F 1 "D" H 9950 7600 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 9950 7700 50  0001 C CNN
+F 3 "" H 9950 7700 50  0001 C CNN
+	1    9950 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D34
+U 1 1 5970BAEC
+P 9950 8500
+F 0 "D34" H 9950 8600 50  0000 C CNN
+F 1 "D" H 9950 8400 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 9950 8500 50  0001 C CNN
+F 3 "" H 9950 8500 50  0001 C CNN
+	1    9950 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D47
+U 1 1 5970BAF2
+P 9950 9850
+F 0 "D47" H 9950 9950 50  0000 C CNN
+F 1 "D" H 9950 9750 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 9950 9850 50  0001 C CNN
+F 3 "" H 9950 9850 50  0001 C CNN
+	1    9950 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D9
+U 1 1 5970BAE0
+P 11100 7100
+F 0 "D9" H 11100 7200 50  0000 C CNN
+F 1 "D" H 11100 7000 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 11100 7100 50  0001 C CNN
+F 3 "" H 11100 7100 50  0001 C CNN
+	1    11100 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D22
+U 1 1 5970BAE6
+P 11100 7700
+F 0 "D22" H 11100 7800 50  0000 C CNN
+F 1 "D" H 11100 7600 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 11100 7700 50  0001 C CNN
+F 3 "" H 11100 7700 50  0001 C CNN
+	1    11100 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D35
+U 1 1 5970BB28
+P 11100 8500
+F 0 "D35" H 11100 8600 50  0000 C CNN
+F 1 "D" H 11100 8400 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 11100 8500 50  0001 C CNN
+F 3 "" H 11100 8500 50  0001 C CNN
+	1    11100 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D10
+U 1 1 5970BB1C
+P 12250 7100
+F 0 "D10" H 12250 7200 50  0000 C CNN
+F 1 "D" H 12250 7000 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 12250 7100 50  0001 C CNN
+F 3 "" H 12250 7100 50  0001 C CNN
+	1    12250 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D23
+U 1 1 5970BB22
+P 12250 7700
+F 0 "D23" H 12250 7800 50  0000 C CNN
+F 1 "D" H 12250 7600 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 12250 7700 50  0001 C CNN
+F 3 "" H 12250 7700 50  0001 C CNN
+	1    12250 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D36
+U 1 1 5970124A
+P 12250 8500
+F 0 "D36" H 12250 8600 50  0000 C CNN
+F 1 "D" H 12250 8400 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 12250 8500 50  0001 C CNN
+F 3 "" H 12250 8500 50  0001 C CNN
+	1    12250 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D49
+U 1 1 5970BB2E
+P 12250 9850
+F 0 "D49" H 12250 9950 50  0000 C CNN
+F 1 "D" H 12250 9750 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 12250 9850 50  0001 C CNN
+F 3 "" H 12250 9850 50  0001 C CNN
+	1    12250 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D11
+U 1 1 5970BB58
+P 13400 7100
+F 0 "D11" H 13400 7200 50  0000 C CNN
+F 1 "D" H 13400 7000 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 13400 7100 50  0001 C CNN
+F 3 "" H 13400 7100 50  0001 C CNN
+	1    13400 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D24
+U 1 1 5970BB5E
+P 13400 7700
+F 0 "D24" H 13400 7800 50  0000 C CNN
+F 1 "D" H 13400 7600 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 13400 7700 50  0001 C CNN
+F 3 "" H 13400 7700 50  0001 C CNN
+	1    13400 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D37
+U 1 1 5A360C78
+P 13400 8500
+F 0 "D37" H 13400 8600 50  0000 C CNN
+F 1 "D" H 13400 8400 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 13400 8500 50  0001 C CNN
+F 3 "" H 13400 8500 50  0001 C CNN
+	1    13400 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D50
+U 1 1 5970BB6A
+P 13400 9850
+F 0 "D50" H 13400 9950 50  0000 C CNN
+F 1 "D" H 13400 9750 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 13400 9850 50  0001 C CNN
+F 3 "" H 13400 9850 50  0001 C CNN
+	1    13400 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D12
+U 1 1 5970BB94
+P 14550 7100
+F 0 "D12" H 14550 7200 50  0000 C CNN
+F 1 "D" H 14550 7000 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 14550 7100 50  0001 C CNN
+F 3 "" H 14550 7100 50  0001 C CNN
+	1    14550 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D25
+U 1 1 5970BBD6
+P 14550 7700
+F 0 "D25" H 14550 7800 50  0000 C CNN
+F 1 "D" H 14550 7600 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 14550 7700 50  0001 C CNN
+F 3 "" H 14550 7700 50  0001 C CNN
+	1    14550 7700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D38
+U 1 1 5970BBDC
+P 14550 8500
+F 0 "D38" H 14550 8600 50  0000 C CNN
+F 1 "D" H 14550 8400 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 14550 8500 50  0001 C CNN
+F 3 "" H 14550 8500 50  0001 C CNN
+	1    14550 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D51
+U 1 1 5970BBE2
+P 14550 9850
+F 0 "D51" H 14550 9950 50  0000 C CNN
+F 1 "D" H 14550 9750 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 14550 9850 50  0001 C CNN
+F 3 "" H 14550 9850 50  0001 C CNN
+	1    14550 9850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_ALT D13
+U 1 1 5970BBD0
+P 15700 7100
+F 0 "D13" H 15700 7200 50  0000 C CNN
+F 1 "D" H 15700 7000 50  0000 C CNN
+F 2 "Keeb_components:D_0805" H 15700 7100 50  0001 C CNN
+F 3 "" H 15700 7100 50  0001 C CNN
+	1    15700 7100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:Polyfuse F1
+U 1 1 5B6EB946
+P 1750 2500
+F 0 "F1" V 1525 2500 50  0000 C CNN
+F 1 "Polyfuse" V 1616 2500 50  0000 C CNN
+F 2 "Keeb_components:R_0805" H 1800 2300 50  0001 L CNN
+F 3 "~" H 1750 2500 50  0001 C CNN
+	1    1750 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D100
+U 1 1 5A598EA0
+P 7800 3300
+F 0 "D100" H 7950 3200 50  0000 C CNN
+F 1 "LED" H 7950 3350 50  0000 C CNN
+F 2 "Keeb_components:LED_0805" H 7800 3300 50  0001 C CNN
+F 3 "" H 7800 3300 50  0001 C CNN
+	1    7800 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C6
+U 1 1 596FEA19
+P 4750 3300
+F 0 "C6" V 4778 3361 39  0000 L CNN
+F 1 "1u" V 4778 3161 39  0000 L CNN
+F 2 "Keeb_components:C_0603" H 4788 3150 50  0001 C CNN
+F 3 "" H 4750 3300 50  0001 C CNN
+	1    4750 3300
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 596FC4B5
+P 4950 1250
+F 0 "C1" H 4975 1350 50  0000 L CNN
+F 1 "0.1u" H 4975 1150 50  0000 L CNN
+F 2 "Keeb_components:C_0603" H 4988 1100 50  0001 C CNN
+F 3 "" H 4950 1250 50  0001 C CNN
+	1    4950 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 596FC50B
+P 5300 1250
+F 0 "C2" H 5325 1350 50  0000 L CNN
+F 1 "0.1u" H 5325 1150 50  0000 L CNN
+F 2 "Keeb_components:C_0603" H 5338 1100 50  0001 C CNN
+F 3 "" H 5300 1250 50  0001 C CNN
+	1    5300 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 596FC53B
+P 5650 1250
+F 0 "C3" H 5675 1350 50  0000 L CNN
+F 1 "0.1u" H 5675 1150 50  0000 L CNN
+F 2 "Keeb_components:C_0603" H 5688 1100 50  0001 C CNN
+F 3 "" H 5650 1250 50  0001 C CNN
+	1    5650 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 596FC56E
+P 6000 1250
+F 0 "C4" H 6025 1350 50  0000 L CNN
+F 1 "0.1u" H 6025 1150 50  0000 L CNN
+F 2 "Keeb_components:C_0603" H 6038 1100 50  0001 C CNN
+F 3 "" H 6000 1250 50  0001 C CNN
+	1    6000 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C5
+U 1 1 596FC5A0
+P 6350 1250
+F 0 "C5" H 6375 1350 50  0000 L CNN
+F 1 "4.7u" H 6375 1150 50  0000 L CNN
+F 2 "Keeb_components:C_0805" H 6388 1100 50  0001 C CNN
+F 3 "" H 6350 1250 50  0001 C CNN
+	1    6350 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SW1
+U 1 1 596FD02B
+P 4050 4050
+F 0 "SW1" H 4200 4160 50  0000 C CNN
+F 1 "SW_PUSH" H 4050 3970 50  0000 C CNN
+F 2 "Button_Switch_SMD:SW_SPST_TL3342" H 4050 4050 60  0001 C CNN
+F 3 "" H 4050 4050 60  0000 C CNN
+	1    4050 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K1
+U 1 1 596FFBFA
+P 2300 6850
+F 0 "K1" H 2250 6850 60  0000 C CNN
+F 1 "KEYSW" H 2300 6750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 2300 6850 60  0001 C CNN
+F 3 "" H 2300 6850 60  0000 C CNN
+	1    2300 6850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K14
+U 1 1 596FFFC0
+P 2300 7450
+F 0 "K14" H 2250 7450 60  0000 C CNN
+F 1 "KEYSW" H 2300 7350 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_125H" H 2300 7450 60  0001 C CNN
+F 3 "" H 2300 7450 60  0000 C CNN
+	1    2300 7450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K27
+U 1 1 597000FA
+P 2300 8250
+F 0 "K27" H 2250 8250 60  0000 C CNN
+F 1 "KEYSW" H 2300 8150 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_175H" H 2300 8250 60  0001 C CNN
+F 3 "" H 2300 8250 60  0000 C CNN
+	1    2300 8250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K40
+U 1 1 59700329
+P 2300 9600
+F 0 "K40" H 2250 9600 60  0000 C CNN
+F 1 "KEYSW" H 2300 9500 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_125H" H 2300 9600 60  0001 C CNN
+F 3 "" H 2300 9600 60  0000 C CNN
+	1    2300 9600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K2
+U 1 1 59701220
+P 3450 6850
+F 0 "K2" H 3400 6850 60  0000 C CNN
+F 1 "KEYSW" H 3450 6750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 3450 6850 60  0001 C CNN
+F 3 "" H 3450 6850 60  0000 C CNN
+	1    3450 6850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K15
+U 1 1 59701226
+P 3450 7450
+F 0 "K15" H 3400 7450 60  0000 C CNN
+F 1 "KEYSW" H 3450 7350 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 3450 7450 60  0001 C CNN
+F 3 "" H 3450 7450 60  0000 C CNN
+	1    3450 7450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K28
+U 1 1 59701672
+P 3450 8250
+F 0 "K28" H 3400 8250 60  0000 C CNN
+F 1 "KEYSW" H 3450 8150 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 3450 8250 60  0001 C CNN
+F 3 "" H 3450 8250 60  0000 C CNN
+	1    3450 8250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K41-1
+U 1 1 5B54C117
+P 3450 9350
+F 0 "K41-1" H 3400 9350 60  0000 C CNN
+F 1 "KEYSW" H 3450 9250 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 3450 9350 60  0001 C CNN
+F 3 "" H 3450 9350 60  0000 C CNN
+	1    3450 9350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K41
+U 1 1 59701232
+P 3450 9600
+F 0 "K41" H 3400 9600 60  0000 C CNN
+F 1 "KEYSW" H 3450 9500 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_125H" H 3450 9600 60  0001 C CNN
+F 3 "" H 3450 9600 60  0000 C CNN
+	1    3450 9600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K3
+U 1 1 59701666
+P 4600 6850
+F 0 "K3" H 4550 6850 60  0000 C CNN
+F 1 "KEYSW" H 4600 6750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 4600 6850 60  0001 C CNN
+F 3 "" H 4600 6850 60  0000 C CNN
+	1    4600 6850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K16
+U 1 1 5970166C
+P 4600 7450
+F 0 "K16" H 4550 7450 60  0000 C CNN
+F 1 "KEYSW" H 4600 7350 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 4600 7450 60  0001 C CNN
+F 3 "" H 4600 7450 60  0000 C CNN
+	1    4600 7450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K29
+U 1 1 59701DC8
+P 4600 8250
+F 0 "K29" H 4550 8250 60  0000 C CNN
+F 1 "KEYSW" H 4600 8150 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 4600 8250 60  0001 C CNN
+F 3 "" H 4600 8250 60  0000 C CNN
+	1    4600 8250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K42-3
+U 1 1 5EA9E6B5
+P 4600 8850
+F 0 "K42-3" H 4550 8850 60  0000 C CNN
+F 1 "KEYSW" H 4600 8750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_125H" H 4600 8850 60  0001 C CNN
+F 3 "" H 4600 8850 60  0000 C CNN
+	1    4600 8850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K42-2
+U 1 1 5B551CB8
+P 4600 9100
+F 0 "K42-2" H 4550 9100 60  0000 C CNN
+F 1 "KEYSW" H 4600 9000 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 4600 9100 60  0001 C CNN
+F 3 "" H 4600 9100 60  0000 C CNN
+	1    4600 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K42-1
+U 1 1 5B55196F
+P 4600 9350
+F 0 "K42-1" H 4550 9350 60  0000 C CNN
+F 1 "KEYSW" H 4600 9250 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_125H" H 4600 9350 60  0001 C CNN
+F 3 "" H 4600 9350 60  0000 C CNN
+	1    4600 9350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K42
+U 1 1 59701678
+P 4600 9600
+F 0 "K42" H 4550 9600 60  0000 C CNN
+F 1 "KEYSW" H 4600 9500 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 4600 9600 60  0001 C CNN
+F 3 "" H 4600 9600 60  0000 C CNN
+	1    4600 9600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K4
+U 1 1 59701DBC
+P 5750 6850
+F 0 "K4" H 5700 6850 60  0000 C CNN
+F 1 "KEYSW" H 5750 6750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 5750 6850 60  0001 C CNN
+F 3 "" H 5750 6850 60  0000 C CNN
+	1    5750 6850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K17
+U 1 1 59701DC2
+P 5750 7450
+F 0 "K17" H 5700 7450 60  0000 C CNN
+F 1 "KEYSW" H 5750 7350 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 5750 7450 60  0001 C CNN
+F 3 "" H 5750 7450 60  0000 C CNN
+	1    5750 7450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K30
+U 1 1 5970209A
+P 5750 8250
+F 0 "K30" H 5700 8250 60  0000 C CNN
+F 1 "KEYSW" H 5750 8150 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 5750 8250 60  0001 C CNN
+F 3 "" H 5750 8250 60  0000 C CNN
+	1    5750 8250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K43
+U 1 1 59701DCE
+P 5750 9600
+F 0 "K43" H 5700 9600 60  0000 C CNN
+F 1 "KEYSW" H 5750 9500 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 5750 9600 60  0001 C CNN
+F 3 "" H 5750 9600 60  0000 C CNN
+	1    5750 9600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K5
+U 1 1 5970208E
+P 6900 6850
+F 0 "K5" H 6850 6850 60  0000 C CNN
+F 1 "KEYSW" H 6900 6750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 6900 6850 60  0001 C CNN
+F 3 "" H 6900 6850 60  0000 C CNN
+	1    6900 6850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K18
+U 1 1 59702094
+P 6900 7450
+F 0 "K18" H 6850 7450 60  0000 C CNN
+F 1 "KEYSW" H 6900 7350 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 6900 7450 60  0001 C CNN
+F 3 "" H 6900 7450 60  0000 C CNN
+	1    6900 7450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K31
+U 1 1 5970394C
+P 6900 8250
+F 0 "K31" H 6850 8250 60  0000 C CNN
+F 1 "KEYSW" H 6900 8150 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 6900 8250 60  0001 C CNN
+F 3 "" H 6900 8250 60  0000 C CNN
+	1    6900 8250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K44-1
+U 1 1 5EC0647C
+P 6900 9350
+F 0 "K44-1" H 6850 9350 60  0000 C CNN
+F 1 "KEYSW" H 6900 9250 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PCB_225H_F" H 6900 9350 60  0001 C CNN
+F 3 "" H 6900 9350 60  0000 C CNN
+	1    6900 9350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K44
+U 1 1 597020A0
+P 6900 9600
+F 0 "K44" H 6850 9600 60  0000 C CNN
+F 1 "KEYSW" H 6900 9500 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_175H" H 6900 9600 60  0001 C CNN
+F 3 "" H 6900 9600 60  0000 C CNN
+	1    6900 9600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K6
+U 1 1 59703940
+P 8050 6850
+F 0 "K6" H 8000 6850 60  0000 C CNN
+F 1 "KEYSW" H 8050 6750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 8050 6850 60  0001 C CNN
+F 3 "" H 8050 6850 60  0000 C CNN
+	1    8050 6850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K19
+U 1 1 59703946
+P 8050 7450
+F 0 "K19" H 8000 7450 60  0000 C CNN
+F 1 "KEYSW" H 8050 7350 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 8050 7450 60  0001 C CNN
+F 3 "" H 8050 7450 60  0000 C CNN
+	1    8050 7450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K32
+U 1 1 59706CAA
+P 8050 8250
+F 0 "K32" H 8000 8250 60  0000 C CNN
+F 1 "KEYSW" H 8050 8150 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 8050 8250 60  0001 C CNN
+F 3 "" H 8050 8250 60  0000 C CNN
+	1    8050 8250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K7
+U 1 1 59706C9E
+P 9200 6850
+F 0 "K7" H 9150 6850 60  0000 C CNN
+F 1 "KEYSW" H 9200 6750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 9200 6850 60  0001 C CNN
+F 3 "" H 9200 6850 60  0000 C CNN
+	1    9200 6850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K20
+U 1 1 59706CA4
+P 9200 7450
+F 0 "K20" H 9150 7450 60  0000 C CNN
+F 1 "KEYSW" H 9200 7350 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 9200 7450 60  0001 C CNN
+F 3 "" H 9200 7450 60  0000 C CNN
+	1    9200 7450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K33
+U 1 1 59708C72
+P 9200 8250
+F 0 "K33" H 9150 8250 60  0000 C CNN
+F 1 "KEYSW" H 9200 8150 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 9200 8250 60  0001 C CNN
+F 3 "" H 9200 8250 60  0000 C CNN
+	1    9200 8250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K46-3
+U 1 1 5EC2C8F8
+P 9200 8850
+F 0 "K46-3" H 9150 8850 60  0000 C CNN
+F 1 "KEYSW" H 9200 8750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PCB_275H_F" H 9200 8850 60  0001 C CNN
+F 3 "" H 9200 8850 60  0000 C CNN
+	1    9200 8850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K46-2
+U 1 1 5B55457D
+P 9200 9100
+F 0 "K46-2" H 9150 9100 60  0000 C CNN
+F 1 "KEYSW" H 9200 9000 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PCB_625H_F" H 9200 9100 60  0001 C CNN
+F 3 "" H 9200 9100 60  0000 C CNN
+	1    9200 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K46-1
+U 1 1 5B5540D7
+P 9200 9350
+F 0 "K46-1" H 9150 9350 60  0000 C CNN
+F 1 "KEYSW" H 9200 9250 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PCB_700H_F" H 9200 9350 60  0001 C CNN
+F 3 "" H 9200 9350 60  0000 C CNN
+	1    9200 9350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K46
+U 1 1 59706CB0
+P 9200 9600
+F 0 "K46" H 9150 9600 60  0000 C CNN
+F 1 "KEYSW" H 9200 9500 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PCB_200H_F" H 9200 9600 60  0001 C CNN
+F 3 "" H 9200 9600 60  0000 C CNN
+	1    9200 9600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K8
+U 1 1 59708C66
+P 10350 6850
+F 0 "K8" H 10300 6850 60  0000 C CNN
+F 1 "KEYSW" H 10350 6750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 10350 6850 60  0001 C CNN
+F 3 "" H 10350 6850 60  0000 C CNN
+	1    10350 6850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K21
+U 1 1 59708C6C
+P 10350 7450
+F 0 "K21" H 10300 7450 60  0000 C CNN
+F 1 "KEYSW" H 10350 7350 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 10350 7450 60  0001 C CNN
+F 3 "" H 10350 7450 60  0000 C CNN
+	1    10350 7450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K34
+U 1 1 5970BACE
+P 10350 8250
+F 0 "K34" H 10300 8250 60  0000 C CNN
+F 1 "KEYSW" H 10350 8150 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 10350 8250 60  0001 C CNN
+F 3 "" H 10350 8250 60  0000 C CNN
+	1    10350 8250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K47-1
+U 1 1 5EC57C9B
+P 10350 9350
+F 0 "K47-1" H 10300 9350 60  0000 C CNN
+F 1 "KEYSW" H 10350 9250 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 10350 9350 60  0001 C CNN
+F 3 "" H 10350 9350 60  0000 C CNN
+	1    10350 9350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K47
+U 1 1 5970BAD4
+P 10350 9600
+F 0 "K47" H 10300 9600 60  0000 C CNN
+F 1 "KEYSW" H 10350 9500 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 10350 9600 60  0001 C CNN
+F 3 "" H 10350 9600 60  0000 C CNN
+	1    10350 9600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K9
+U 1 1 5970BAC2
+P 11500 6850
+F 0 "K9" H 11450 6850 60  0000 C CNN
+F 1 "KEYSW" H 11500 6750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 11500 6850 60  0001 C CNN
+F 3 "" H 11500 6850 60  0000 C CNN
+	1    11500 6850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K22
+U 1 1 5970BAC8
+P 11500 7450
+F 0 "K22" H 11450 7450 60  0000 C CNN
+F 1 "KEYSW" H 11500 7350 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 11500 7450 60  0001 C CNN
+F 3 "" H 11500 7450 60  0000 C CNN
+	1    11500 7450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K35
+U 1 1 5970BB0A
+P 11500 8250
+F 0 "K35" H 11450 8250 60  0000 C CNN
+F 1 "KEYSW" H 11500 8150 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 11500 8250 60  0001 C CNN
+F 3 "" H 11500 8250 60  0000 C CNN
+	1    11500 8250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K10
+U 1 1 5970BAFE
+P 12650 6850
+F 0 "K10" H 12600 6850 60  0000 C CNN
+F 1 "KEYSW" H 12650 6750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 12650 6850 60  0001 C CNN
+F 3 "" H 12650 6850 60  0000 C CNN
+	1    12650 6850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K23
+U 1 1 5970BB04
+P 12650 7450
+F 0 "K23" H 12600 7450 60  0000 C CNN
+F 1 "KEYSW" H 12650 7350 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 12650 7450 60  0001 C CNN
+F 3 "" H 12650 7450 60  0000 C CNN
+	1    12650 7450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K36
+U 1 1 5970122C
+P 12650 8250
+F 0 "K36" H 12600 8250 60  0000 C CNN
+F 1 "KEYSW" H 12650 8150 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 12650 8250 60  0001 C CNN
+F 3 "" H 12650 8250 60  0000 C CNN
+	1    12650 8250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K49-2
+U 1 1 5EC7F2B4
+P 12650 9100
+F 0 "K49-2" H 12600 9100 60  0000 C CNN
+F 1 "KEYSW" H 12650 9000 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 12650 9100 60  0001 C CNN
+F 3 "" H 12650 9100 60  0000 C CNN
+	1    12650 9100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K49-1
+U 1 1 5B555970
+P 12650 9350
+F 0 "K49-1" H 12600 9350 60  0000 C CNN
+F 1 "KEYSW" H 12650 9250 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 12650 9350 60  0001 C CNN
+F 3 "" H 12650 9350 60  0000 C CNN
+	1    12650 9350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K49
+U 1 1 5970BB10
+P 12650 9600
+F 0 "K49" H 12600 9600 60  0000 C CNN
+F 1 "KEYSW" H 12650 9500 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_125H" H 12650 9600 60  0001 C CNN
+F 3 "" H 12650 9600 60  0000 C CNN
+	1    12650 9600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K11
+U 1 1 5970BB3A
+P 13800 6850
+F 0 "K11" H 13750 6850 60  0000 C CNN
+F 1 "KEYSW" H 13800 6750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 13800 6850 60  0001 C CNN
+F 3 "" H 13800 6850 60  0000 C CNN
+	1    13800 6850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K24
+U 1 1 5970BB40
+P 13800 7450
+F 0 "K24" H 13750 7450 60  0000 C CNN
+F 1 "KEYSW" H 13800 7350 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 13800 7450 60  0001 C CNN
+F 3 "" H 13800 7450 60  0000 C CNN
+	1    13800 7450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K37-1
+U 1 1 5DAD3B16
+P 13800 8050
+F 0 "K37-1" H 13750 8050 60  0000 C CNN
+F 1 "KEYSW" H 13800 7950 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_125H" H 13800 8050 60  0001 C CNN
+F 3 "" H 13800 8050 60  0000 C CNN
+	1    13800 8050
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K37
+U 1 1 5970BB46
+P 13800 8250
+F 0 "K37" H 13750 8250 60  0000 C CNN
+F 1 "KEYSW" H 13800 8150 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 13800 8250 60  0001 C CNN
+F 3 "" H 13800 8250 60  0000 C CNN
+	1    13800 8250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K50-1
+U 1 1 5ECA63D0
+P 13800 9350
+F 0 "K50-1" H 13750 9350 60  0000 C CNN
+F 1 "KEYSW" H 13800 9250 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 13800 9350 60  0001 C CNN
+F 3 "" H 13800 9350 60  0000 C CNN
+	1    13800 9350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K50
+U 1 1 5970BB4C
+P 13800 9600
+F 0 "K50" H 13750 9600 60  0000 C CNN
+F 1 "KEYSW" H 13800 9500 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_125H" H 13800 9600 60  0001 C CNN
+F 3 "" H 13800 9600 60  0000 C CNN
+	1    13800 9600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K12
+U 1 1 5970BB76
+P 14950 6850
+F 0 "K12" H 14900 6850 60  0000 C CNN
+F 1 "KEYSW" H 14950 6750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 14950 6850 60  0001 C CNN
+F 3 "" H 14950 6850 60  0000 C CNN
+	1    14950 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K25
+U 1 1 5970BBB8
+P 14950 7450
+F 0 "K25" H 14900 7450 60  0000 C CNN
+F 1 "KEYSW" H 14950 7350 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_175H" H 14950 7450 60  0001 C CNN
+F 3 "" H 14950 7450 60  0000 C CNN
+	1    14950 7450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K38-1
+U 1 1 5DAD43FD
+P 14950 8000
+F 0 "K38-1" H 14900 8000 60  0000 C CNN
+F 1 "KEYSW" H 14950 7900 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 14950 8000 60  0001 C CNN
+F 3 "" H 14950 8000 60  0000 C CNN
+	1    14950 8000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K38
+U 1 1 5970BBBE
+P 14950 8250
+F 0 "K38" H 14900 8250 60  0000 C CNN
+F 1 "KEYSW" H 14950 8150 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_125H" H 14950 8250 60  0001 C CNN
+F 3 "" H 14950 8250 60  0000 C CNN
+	1    14950 8250
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K51
+U 1 1 5970BBC4
+P 14950 9600
+F 0 "K51" H 14900 9600 60  0000 C CNN
+F 1 "KEYSW" H 14950 9500 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_125H" H 14950 9600 60  0001 C CNN
+F 3 "" H 14950 9600 60  0000 C CNN
+	1    14950 9600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K13-1
+U 1 1 5B1C7993
+P 16100 6600
+F 0 "K13-1" H 16050 6600 60  0000 C CNN
+F 1 "KEYSW" H 16100 6500 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PCB_200H" H 16100 6600 60  0001 C CNN
+F 3 "" H 16100 6600 60  0000 C CNN
+	1    16100 6600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K13
+U 1 1 5970BBB2
+P 16100 6850
+F 0 "K13" H 16050 6850 60  0000 C CNN
+F 1 "KEYSW" H 16100 6750 60  0001 C CNN
+F 2 "Keeb_switches:CHERRY_PLATE_100H" H 16100 6850 60  0001 C CNN
+F 3 "" H 16100 6850 60  0000 C CNN
+	1    16100 6850
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x03_Odd_Even J2
+U 1 1 5A55F774
+P 7300 1550
+F 0 "J2" H 7350 1750 50  0000 C CNN
+F 1 "ISP" H 7350 1350 50  0000 C CNN
+F 2 "Keeb_components:isp_standard" H 7300 1550 50  0001 C CNN
+F 3 "" H 7300 1550 50  0001 C CNN
+	1    7300 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:XTAL_GND X1
+U 1 1 596FBF5C
+P 4000 4500
+F 0 "X1" H 4000 4650 60  0000 C CNN
+F 1 "16mhz" H 4000 4350 60  0000 C CNN
+F 2 "Keeb_components:Resonator_SMD_muRata_CSTNExxV-3Pin-p1.2" H 4000 4500 60  0001 C CNN
+F 3 "" H 4000 4500 60  0000 C CNN
+	1    4000 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:USBLC6-2SC6 U2
+U 1 1 5D9E6B39
+P 3050 3150
+F 0 "U2" H 3050 3475 50  0000 C CNN
+F 1 "USBLC6-2SC6" H 3050 3384 50  0000 C CNN
+F 2 "Keeb_components:USBLC6-2SC6" H 2750 2850 50  0001 L CNN
+F 3 "" H 2750 2750 50  0001 L CNN
+	1    3050 3150
+	1    0    0    1   
+$EndComp
+$Comp
+L Type-C:HRO-TYPE-C-31-M-12 J1
+U 1 1 5BD67DA0
+P 1250 3450
+F 0 "J1" H 1081 4247 60  0000 C CNN
+F 1 "HRO-TYPE-C-31-M-12" H 1081 4141 60  0000 C CNN
+F 2 "Keeb_components:HRO-TYPE-C-31-M-12" H 1250 3450 60  0001 C CNN
+F 3 "" H 1250 3450 60  0001 C CNN
+	1    1250 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L atmel:ATmega32U4 U1
+U 1 1 5BD8BE93
+P 6250 3850
+F 0 "U1" H 6225 5665 50  0000 C CNN
+F 1 "ATmega32U4" H 6225 5574 50  0000 C CNN
+F 2 "Keeb_components:ATMEGA32U4" H 7450 4950 50  0001 C CNN
+F 3 "" H 7450 4950 50  0001 C CNN
+	1    6250 3850
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
